@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\vlol\documents\jumpreflect\assets\code\levelcreator\objects\hardoutline.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\vlol\Documents\JumpReflect\Assets\Code\TestScript.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\vlol\documents\jumpreflect\assets\code\mainmenu\mainmenu.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\vlol\Documents\JumpReflect\Assets\Code\Data\DataPool.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\vlol\Documents\JumpReflect\Assets\Code\Data\MainData.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
